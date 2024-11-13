@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeenaFaria&theme=vue)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeenaFaria&theme=react-dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeenaFaria&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeenaFaria&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=DeenaFaria&theme=dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=DeenaFaria&color=blue)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DeenaFaria&theme=gruvbox)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Readme Quotes](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
