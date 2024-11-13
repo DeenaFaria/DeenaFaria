@@ -16,16 +16,19 @@ Here are some ideas to get you started:
 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeenaFaria&theme=vue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeenaFaria&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeenaFaria&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DeenaFaria&theme=dark)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeenaFaria&color=blue)
 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&color=f7df1e)
+![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react&color=61dafb)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeenaFaria&show_icons=true&theme=dark)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DeenaFaria&theme=gruvbox)
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Readme Quotes](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
